@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ExercicioListView</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="voo_nome">Escolha o Voo</string>
+    <string name="voo_origem">Origem: </string>
+    <string name="voo_preco">Preço: </string>
+    <string name="voo_destino">Destino: </string>
+
+    <string name="title_activity_lista_voo">Lista de Voos</string>
+
+    <string name="txt_lista_voos">Nenhum voo encontrado</string>
+    <string name="title_activity_detalhe_voo">Voo Escolhido</string>
+
+    <string-array name="aeroportos">
+        <item>Escolha um aeroporto</item>
+        <item>Congonhas(SP)</item>
+        <item>Campinas(Interior)</item>
+        <item>"Rio de janeiro(RJ)"</item>
+        <item>Bahia</item>
+    </string-array>
+
+    <string name="button1">Consulta Simples</string>
+    <string name="button2">Consulta Melhor</string>
+
+</resources>
+
